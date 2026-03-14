@@ -31,9 +31,13 @@
   ###   ●	Open the file from the USB storage and select the Print option.
 
 ## Input:
-![alt text](<../images (1).jpg>)
+
+
+
 ### Output:
-![alt text](<../Screenshot (245).png>)
+
+
+
 
 ### Name:Subashini K
 ### Register Number:212225240160
