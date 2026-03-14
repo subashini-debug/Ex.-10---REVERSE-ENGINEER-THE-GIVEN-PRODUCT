@@ -32,10 +32,10 @@
 
 ## Input:
 
-
+![alt text](<images (1).jpg>)
 
 ### Output:
-
+![alt text](<Screenshot (245).png>)
 
 
 
